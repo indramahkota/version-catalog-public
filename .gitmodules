@@ -1,0 +1,4 @@
+[submodule "version-catalog"]
+	path = version-catalog
+	url = git@github.com:indramahkota/version-catalog.git
+	branch = master
